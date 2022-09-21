@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - :monkey_face: currently working on [alele.io](https://github.com/aleleio/), a teambuilding app
 - 🌱 learning about APIs and networking
 - 🤔 looking for help with testing or mobile development
-- ❓: ask me about python, linux and books
+- ❓ ask me about python, linux and books
 
 You can reach me on [Twitter](https://twitter.com/christiandoes/)
