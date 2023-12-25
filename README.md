@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :monkey_face: currently working on [alele.io](https://github.com/aleleio/), a teambuilding app
+- :monkey_face: sometimes working on [alele.io](https://github.com/aleleio/), a teambuilding app
 - 🌱 learning about APIs and networking
 - 🤔 looking for help with testing or mobile development
 - ❓ ask me about python, linux and books
 
-You can reach me on [Twitter](https://twitter.com/christiandoes/) or [Mastodon](https://fosstodon.org/@cmacht)
+You can reach me on [Mastodon](https://fosstodon.org/@cmacht).
