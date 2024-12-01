@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 💻 fixing hardware for people in need at [computertruhe e.V.](https://computertruhe.de/)
 - :monkey_face: sometimes working on [alele.io](https://github.com/aleleio/), a teambuilding app
-- 🌱 learning about APIs and networking
-- 🤔 looking for help with testing or mobile development
-- ❓ ask me about python, linux and books
+- 🌱 learning modern css and godot
+- 🤔 looking for help with mobile development in flutter
+- ❓ ask me about python, linux and [books](https://books.machtigall.de)
 
 You can reach me on [Mastodon](https://fosstodon.org/@cmacht).
