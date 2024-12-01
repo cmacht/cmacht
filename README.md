@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - 💻 fixing hardware for people in need at [computertruhe e.V.](https://computertruhe.de/)
 - 🌱 learning modern css and godot
 - 🤔 looking for help with mobile development in flutter
-- ❓ ask me about python, linux and [books](https://books.machtigall.de)
+- ❓ ask me about python, linux and [books](http://books.machtigall.de)
 
 You can reach me on [Mastodon](https://fosstodon.org/@cmacht).
